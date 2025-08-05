@@ -1,0 +1,8 @@
+# Python bytecode
+__pycache__/
+
+# Generated Excel output
+policy_data.xlsx
+
+# Environment variables file (for API keys, etc.)
+.env
